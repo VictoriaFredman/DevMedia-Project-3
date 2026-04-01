@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+    <title> Resultados dos Alunos </title>
+    <meta name="description" content="Lista de aprovação">
+    <meta charset="utf-8"> 
+    <meta name="robots" content="noindex"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style> 
+    b { color:chartreuse;} 
+    a { color:firebrick;} 
+    </style>
+    </head>
+
+    <body> 
+        <h1> Resultados dos Alunos </h1>
+
+     <div> 
+        <h2> Aprovados </h2>
+        <ul> 
+        <b> 
+            <li> Marcus</li> 
+            <li> Camila </li> 
+            <li> Fred </li>
+            <li> Julia </li> 
+        </b>
+        </ul>
+     </div>
+
+     <div> 
+        <h2> Reprovados </h2>
+        <ul> 
+        <a> 
+            <li> Tamires </li>
+            <li> Paulo </li>
+            <li> César </li> 
+            <li> Gabriela </li>
+        </a>
+        </ul>
+     </div>
+
+
+    </body>
+
+
+
+
+</html>
